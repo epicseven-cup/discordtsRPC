@@ -1,0 +1,33 @@
+{
+  "name": "@epicseven-cup/discordtsrpc",
+  "version": "1.0.0",
+  "description": "discordRPC in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epicseven-cup/discordtsRPC.git"
+  },
+  "keywords": [
+    "typescript",
+    "discordRPC",
+    "discord",
+    "RPC"
+  ],
+  "author": "epicseven-cup",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/epicseven-cup/discordtsRPC/issues"
+  },
+  "homepage": "https://github.com/epicseven-cup/discordtsRPC#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "vitest": "^3.2.4"
+  },
+  "dependencies": {
+    "@types/node": "^24.0.14"
+  }
+}
