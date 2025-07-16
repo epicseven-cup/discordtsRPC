@@ -1,0 +1,2 @@
+# discordtsRPC
+discordRPC in typescript
